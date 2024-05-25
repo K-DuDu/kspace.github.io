@@ -1,0 +1,38 @@
+.background{
+    width: 800px;
+    height: 1000px;
+    background-color: blueviolet;
+    margin: auto;
+    background-image: url(../IMAGE/yujunchuxiangshi.jpg);
+    background-size: 800px;
+}
+.title{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+.text_part{
+    width: 510px;
+    height: 480px;
+    position: relative;
+    top: 270px;
+    left: 20px;
+}
+.link_image{
+    width: 180px;
+    height: 180px;
+    position: relative;
+    top: -110px;
+    left: 530px;
+}
+.chahua{
+    width: 270px;
+    height: 200px;
+}
+.text{
+    width: 500px;
+    height: auto;
+    font-size: 19px;
+    font-family: youyuan;
+    text-indent: 2em;
+}
